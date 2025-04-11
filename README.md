@@ -37,7 +37,7 @@ Clone the repository using Git:
       git  clone  https://github.com/214G1A3356/CSM2024-25-Batch-A-12.git
 ### Rename the folder name into " aswe "
       CSM2024-25-Batch-A-12 to aswe
-
+the internally functionality was build on the folder name with aswe 
 ### Entering API Keys
 
 #### Configure API Keys Directly in the Application
