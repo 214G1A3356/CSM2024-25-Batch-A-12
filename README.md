@@ -35,6 +35,8 @@ If you're new to installing software from GitHub, don't worry! If you encounter 
 Clone the repository using Git:
   
       git  clone  https://github.com/214G1A3356/CSM2024-25-Batch-A-12.git
+### Rename the folder name into " aswe "
+      CSM2024-25-Batch-A-12 to aswe
 
 ### Entering API Keys
 
