@@ -34,7 +34,7 @@ If you're new to installing software from GitHub, don't worry! If you encounter 
 ### Clone the Repository
 Clone the repository using Git:
   
-git  clone  https://github.com/214G1A3356/CSM2024-25-Batch-A-12.git
+  git  clone  https://github.com/214G1A3356/CSM2024-25-Batch-A-12.git
 
 ### Entering API Keys
 
